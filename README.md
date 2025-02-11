@@ -1,8 +1,14 @@
-# React + Vite
+Gostaria de compartilhar uma projeto que desenvolvi com React.
+Neste projeto criei um Landing Page da Converse, responsiva e animada.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+habilidades utilizadas:
+#HookUseState
+#ReactIcons
+#Framer-motion
+g#Responsividade
+#Css
+#HTML
+#JAVASCRIPT
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura de tela 2025-02-11 173932](https://github.com/user-attachments/assets/dd5ca3f9-3ae9-476f-ace2-05e38855889d)
